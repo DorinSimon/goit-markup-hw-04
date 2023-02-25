@@ -65,11 +65,14 @@ ul {
 .right-link:focus,
 .contacts-list li:hover {
   color: var(--text-color-bleu);
-  fill: var(--text-color-bleu);
+  fill: var(--text-color-bleu);  
 }
 
-.link-style:hover {
+.link-style:hover { 
   color: var(--text-color-bleu);
+  padding-bottom: 28px;
+  border-bottom: 4px solid  #2196F3;
+  border-radius: 2px;
 }
 
 .header-container {
