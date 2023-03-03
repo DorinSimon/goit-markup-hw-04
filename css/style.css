@@ -379,9 +379,11 @@ header {
 .icon-customers-color{
   fill: #AFB1B8;;
 }
-
+.icons-customers li:hover,
 .icon-customers-color:hover {
   fill:var(--text-color-bleu);
+  border:1px solid #2196F3;
+  
 }
 
 .subtitle-section-customers {
